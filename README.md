@@ -47,3 +47,5 @@
 
 Quartus II，目標晶片 Cyclone V 5CEFA2F23C8，實驗平台為 LP-2900 CPLD 邏輯設計實驗板。
 
+## 示意圖
+![](resultPic.png)
